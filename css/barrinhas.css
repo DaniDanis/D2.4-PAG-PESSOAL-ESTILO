@@ -1,0 +1,36 @@
+.barrinha1 {
+    width: 90%;
+    height: 10px;
+    border-radius: 15px;
+    margin: 2% 0%;
+    background: linear-gradient(to right, #00a78e 80%, #EEEFF2 0%);
+  }
+
+.barrinha2 {
+    width: 90%;
+    height: 10px;
+    border-radius: 15px;
+    margin: 2% 0%;
+    background: linear-gradient(to right, #00a78e 75%, #EEEFF2 0%);
+  }
+  .barrinha3 {
+    width: 90%;
+    height: 10px;
+    border-radius: 15px;
+    margin: 2% 0%;
+    background: linear-gradient(to right, #00a78e 90%, #EEEFF2 0%);
+  }
+
+  .barrinha4 {
+    width: 90%;
+    height: 10px;
+    border-radius: 15px;
+    margin: 2% 0%;
+    background: linear-gradient(to right, #00a78e 65%, #EEEFF2 0%);
+  }
+
+  .barrinha1, .barrinha2, .barrinha3 {
+    margin-bottom: 6%;
+  }
+
+  

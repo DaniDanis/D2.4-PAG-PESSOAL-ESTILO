@@ -1,0 +1,253 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+  margin: auto;
+  max-width: 948px;
+  max-height: 3076px;
+}
+
+.container {
+  margin: auto;
+  width: auto;
+  height: 1325px;
+  max-width: 980px;
+  max-height: 1400px;
+  
+}
+
+.inicio {
+  margin-top: 7%;
+  font-size: 27px;
+  font-weight: 400;
+  color: #00a78e;
+  letter-spacing: 5pt;
+  line-height: 10px;
+} 
+
+.titulo {
+  font-size: 40px;
+}
+
+.subtitulo {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 3pt;
+}
+
+.texto {
+  font-size: 18px;
+  color: #767777;
+  line-height: 30px;
+}
+
+.botao {
+  font-size: 16px;
+  font-weight: 400;
+  background-color: #00a78e;
+  color: #ffffff;
+  padding: 14px 35px;
+  border-radius: 7px;
+  border: none;
+  letter-spacing: 1px;
+  font-family: "Montserrat";
+}
+
+.topoDaPagina {
+  max-width: 570px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+.enzo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+  max-height: 468px;
+  width: auto;
+  height: auto;
+}
+
+.tituloContratacao {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.textoContratacao {
+  font-size: 20px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.5em;
+  
+  
+}
+
+.listatoda {
+  padding-top: 45px;
+}
+
+.textolista {
+  font-size: 16px;
+  line-height: 1em; 
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+
+.porcentagem {
+  width: 50px;
+  margin-left: 85%;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+li {
+  list-style-type: none;
+}
+
+.quadradinhos {
+  display: block;
+  background-color: #f9f9f9;
+  margin: auto;
+  width: 948px;
+  height: 1050px;
+  line-height: 100%;
+  margin-top: 20%;
+  
+}
+
+  
+
+.linha {
+    max-width: 1100px;
+    width: 125px;
+    margin: auto;
+    height: 20px;
+    padding-top: 5px;
+}
+
+.projetos {
+    padding-top: 60px;
+    padding-bottom: 15px;
+    text-align: center;
+    color: black;
+    font-size: 38px;
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+  
+  }
+
+
+.tituloProjetos {
+    color: black;
+    font-size: 22px;
+    margin-left: 10%;
+    font-weight: 600;
+    
+  }
+
+.textocaixinhas {
+    padding-left: 9%;
+    font-size: 16px;
+    color: #767777;
+    line-height: 1.5em;
+  }
+  
+
+.custom-shape-divider-top-1650379720 {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+  }
+  
+.custom-shape-divider-top-1650380019 svg {
+    display: block;
+    width: calc(229% + 1.3px);
+    height: 268px;
+  }
+  
+.custom-shape-divider-top-1650379720 .shape-fill {
+    fill: #f9f9f9;
+  }
+
+
+
+.contato {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+    background-color: #00a78e;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+    position: relative;
+    bottom: 125px;
+    opacity: 0.75;
+    
+  }
+.textoContatos {
+    padding-left: 50px;
+  }
+  
+.ajustecontatos {
+    padding-bottom: 50px;
+  }
+
+.finalDaPagina {
+  text-align: center;
+  display: block;
+  background-color: #f9f9f9 ;
+  margin: none;
+  max-height: 450px;
+  padding-top: 10%;
+  padding-bottom: 15%;
+}
+
+.iconeredondos {
+  padding-right: 1%;
+  width: 54px;
+  height: 54px;
+}
+
+.email {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  padding-top: 50px;
+  margin: 0 auto;
+  width: 460px;
+}
+
+.todosLinks {
+  width: 320px;
+  margin: 0 auto;
+}
+.links {
+  text-decoration: none;
+  color: #293651;
+  font-size: 16px;
+  padding-right: 2%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.creditos {
+  padding-top: 60px;
+  font-size: 16px;
+  color: #646f87;
+  width: 385px;
+  margin: 0 auto;
+
+}
+
+.imagensRodaPe {
+  width: 245px;
+  margin: 0 auto;
+  margin-top: 5%;
+}

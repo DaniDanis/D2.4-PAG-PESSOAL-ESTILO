@@ -1,0 +1,40 @@
+.caixaProjetos {
+    display: inline-block;
+    width: 360px;
+    height: 320px;
+    background-color: white;  
+    border: solid  2px #f2f2f2;
+    border-radius: 5px; 
+    margin: 0px;
+    line-height: 1.5em;
+    }  
+
+.todasCaixas {
+    display: inline-block;
+}
+
+.caixinha1 {    
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.caixinha2 {
+    margin-left: 3%;
+     
+}
+
+.caixinha3 {
+    margin-top: 35px;
+    margin-left: 10%;
+}
+
+.caixinha4 {
+    margin-left: 3%;
+}
+
+.imagens {
+    max-width: 84px;
+    max-height: 84px;
+    margin-left: 10%;
+    margin-top: 10%;
+  }

@@ -1,0 +1,29 @@
+.listrinha1 {
+    display: inline-block;
+    width: 85px;
+    height: 2.5px;
+    border-radius: 100px;
+    background-color: #00a78e;
+}
+
+.listrinha2 {
+    display: inline-block;
+    width: 15px;
+    height: 2.5px;
+    border-radius: 100px;
+    background-color: #00a78e;
+}
+
+.listrinha3 {
+    display: inline-block;
+    width: 10px;
+    height: 2.5px;
+    border-radius: 100px;
+    background-color: #00a78e;
+}
+
+.listrinhasjuntas{
+    display: block;
+    width: 125px;
+    margin: auto;
+}
