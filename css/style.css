@@ -5,9 +5,7 @@ body {
   color: #293651;
   margin: auto;
   max-width: 948px;
-  max-height: 3076px;
 }
-
 .container {
   margin: auto;
   width: auto;
@@ -23,7 +21,7 @@ body {
   font-weight: 400;
   color: #00a78e;
   letter-spacing: 5pt;
-  line-height: 10px;
+  line-height: 1em;
 } 
 
 .titulo {
@@ -39,7 +37,7 @@ body {
 .texto {
   font-size: 18px;
   color: #767777;
-  line-height: 30px;
+  line-height: 1.5em;
 }
 
 .botao {
@@ -112,10 +110,10 @@ li {
 
 .quadradinhos {
   display: block;
-  background-color: #f9f9f9;
+  background-color: #dbdbdb;
   margin: auto;
   width: 948px;
-  height: 1050px;
+  height: 950px;
   line-height: 100%;
   margin-top: 20%;
   
@@ -173,7 +171,7 @@ li {
   }
   
 .custom-shape-divider-top-1650379720 .shape-fill {
-    fill: #f9f9f9;
+    fill: #dbdbdb;
   }
 
 
@@ -181,7 +179,7 @@ li {
 .contato {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1200px;
+    max-width: 850px;
     background-color: #00a78e;
     padding: 5px;
     border-radius: 15px;
@@ -206,7 +204,7 @@ li {
   margin: none;
   max-height: 450px;
   padding-top: 10%;
-  padding-bottom: 15%;
+  padding-bottom: 5%;
 }
 
 .iconeredondos {
