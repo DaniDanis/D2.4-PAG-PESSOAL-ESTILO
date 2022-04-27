@@ -251,7 +251,9 @@ li {
 }
 
 .icons {
-  margin-left: 10px;
+  display: inline-block;
+  margin-left: 10%;
+  margin-top: 10%;
 }
 
 .bordaIcones {
