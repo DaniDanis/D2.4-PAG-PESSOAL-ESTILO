@@ -64,7 +64,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 400px;
+  max-width: 250px;
   max-height: 468px;
   width: auto;
   height: auto;
@@ -72,11 +72,12 @@ body {
 
 .tituloContratacao {
   font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
   font-weight: 600;
 }
 
 .textoContratacao {
-  font-size: 20px;
+  font-size: 18px;
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
@@ -112,29 +113,25 @@ li {
   display: block;
   background-color: #dbdbdb;
   margin: auto;
-  width: 948px;
   height: 950px;
   line-height: 100%;
-  margin-top: 20%;
+  margin-top: 40%;
   
-}
-
-  
+}  
 
 .linha {
     max-width: 1100px;
     width: 125px;
     margin: auto;
     height: 20px;
-    padding-top: 5px;
+    padding-bottom: 15px;
 }
 
 .projetos {
     padding-top: 60px;
-    padding-bottom: 15px;
     text-align: center;
     color: black;
-    font-size: 38px;
+    font-size: 26px;
     margin: 0%;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
@@ -144,16 +141,16 @@ li {
 
 .tituloProjetos {
     color: black;
-    font-size: 22px;
+    font-size: 16px;
     font-weight: 600;
+    line-height: 1em;
     
   }
 
 .textocaixinhas {
     font-size: 16px;
     color: #767777;
-    line-height: 1.5em;
-  }
+    line-height: 1.5em;    }
   
 
 .custom-shape-divider-top-1650379720 {
@@ -177,23 +174,22 @@ li {
 .contato {
     margin-left: auto;
     margin-right: auto;
-    max-width: 850px;
+    max-width: 370px;
     background-color: #00a78e;
     padding: 5px;
     border-radius: 15px;
     color: white;
     position: relative;
-    bottom: 125px;
+    bottom: 75px;
     opacity: 0.75;
+    height: 150px;
     
   }
 .textoContatos {
     padding-left: 50px;
+    font-size: 18px
   }
   
-.ajustecontatos {
-    padding-bottom: 50px;
-  }
 
 .finalDaPagina {
   text-align: center;
