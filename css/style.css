@@ -145,13 +145,11 @@ li {
 .tituloProjetos {
     color: black;
     font-size: 22px;
-    margin-left: 10%;
     font-weight: 600;
     
   }
 
 .textocaixinhas {
-    padding-left: 9%;
     font-size: 16px;
     color: #767777;
     line-height: 1.5em;
@@ -250,8 +248,7 @@ li {
   margin-top: 5%;
 }
 
-.icons {
-  display: inline-block;
+.conteudoCaixas {
   margin-left: 10%;
   margin-top: 10%;
 }
