@@ -4,14 +4,15 @@ body {
   font-weight: 400;
   color: #293651;
   margin: auto;
-  max-width: 948px;
+  max-width: 412px;
 }
 .container {
   margin: auto;
   width: auto;
   height: 1325px;
-  max-width: 980px;
+  max-width: 412px;
   max-height: 1400px;
+  margin-left: 5%;
   
 }
 
@@ -53,7 +54,7 @@ body {
 }
 
 .topoDaPagina {
-  max-width: 570px;
+  max-width: 412px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -78,7 +79,7 @@ body {
 
 .textoContratacao {
   font-size: 18px;
-  max-width: 500px;
+  max-width: 412px;
   margin-left: auto;
   margin-right: auto;
   line-height: 1.5em;
@@ -116,11 +117,13 @@ li {
   height: 950px;
   line-height: 100%;
   margin-top: 40%;
+  max-width: 412px;
+  
   
 }  
 
 .linha {
-    max-width: 1100px;
+    max-width: 412px;
     width: 125px;
     margin: auto;
     height: 20px;
@@ -208,12 +211,12 @@ li {
 }
 
 .email {
-  font-size: 36px;
+  font-size: 26px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   padding-top: 10px;
   margin: 0 auto;
-  width: 460px;
+  width: 412px;
 }
 
 .todosLinks {
